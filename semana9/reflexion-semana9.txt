@@ -1,0 +1,15 @@
+Los servidores son importantes porque permiten que las plataformas digitales funcionen correctamente para los usuarios.
+
+Un servidor estable garantiza que las personas puedan acceder a los servicios sin interrupciones.
+
+La seguridad ayuda a proteger la información y mantener la confianza de la comunidad.
+
+Los logs permiten conocer qué sucede dentro del sistema y detectar errores.
+
+El monitoreo ayuda a prevenir fallas y mejorar el rendimiento.
+
+Node.js facilita la creación de servicios web rápidos y eficientes.
+
+Un servidor bien administrado permite que una plataforma pueda crecer.
+
+Por esta razón es importante mantener servidores seguros, organizados y funcionando continuamente.
